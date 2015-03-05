@@ -2,23 +2,291 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d554e999-d985-4aac-a723-c6ca3d8e9439" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_0_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/analytics-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/analytics.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/analytics/build.sbt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/build.sbt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/website/build.sbt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/website-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/website.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/com/kittens/PreOwnedKittenMain.scala" afterPath="$PROJECT_DIR$/common/src/main/scala/com/kittens/PreOwnedKittenMain.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/com/kittens/models.scala" afterPath="$PROJECT_DIR$/common/src/main/scala/com/kittens/models.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/scala/LogicSpec.scala" afterPath="$PROJECT_DIR$/common/src/test/scala/LogicSpec.scala" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/analytics/analytics_2.10/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/analytics/analytics_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/analytics/analytics_2.11/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/analytics/analytics_2.11/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/com.preownedkittens/analytics_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/com.preownedkittens/analytics_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.10-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.10-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.10-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.10-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.10-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.10-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.10-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.10-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.10-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.10-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.10-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.10-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.10-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.11-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.11-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.11-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.11-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.11-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.11-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.11-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.11-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.11-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.11-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.11-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.11-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/analytics-analytics_2.11-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/com.preownedkittens-analytics_2.11-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/com.preownedkittens-analytics_2.11-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/com.preownedkittens-analytics_2.11-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/com.preownedkittens-analytics_2.11-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/com.preownedkittens-analytics_2.11-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/com.preownedkittens-analytics_2.11-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/com.preownedkittens-analytics_2.11-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/com.preownedkittens-analytics_2.11-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/com.preownedkittens-analytics_2.11-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/com.preownedkittens-analytics_2.11-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/com.preownedkittens-analytics_2.11-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/com.preownedkittens-analytics_2.11-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/com.preownedkittens-analytics_2.11-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/$global/$global/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/$global/ivySbt/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/$global/update/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/compile/compile/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/compile/compile/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/compile/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/test/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/test/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/analytics/target/streams/test/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/com.preownedkittens/common_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/com.preownedkittens/common_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/common/common_2.10/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/common/common_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/common/common_2.11/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/common/common_2.11/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/com.preownedkittens-common_2.11-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/com.preownedkittens-common_2.11-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/com.preownedkittens-common_2.11-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/com.preownedkittens-common_2.11-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/com.preownedkittens-common_2.11-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/com.preownedkittens-common_2.11-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/com.preownedkittens-common_2.11-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/com.preownedkittens-common_2.11-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/com.preownedkittens-common_2.11-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/com.preownedkittens-common_2.11-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/com.preownedkittens-common_2.11-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/com.preownedkittens-common_2.11-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/com.preownedkittens-common_2.11-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.10-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.10-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.10-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.10-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.10-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.10-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.10-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.10-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.10-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.10-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.10-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.10-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.10-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.11-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.11-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.11-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.11-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.11-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.11-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.11-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.11-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.11-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.11-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.11-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.11-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/common-common_2.11-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.10/classes/com/kittens/BuyerPreferences$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.10/classes/com/kittens/BuyerPreferences.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.10/classes/com/kittens/Kitten$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.10/classes/com/kittens/Kitten.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.10/classes/com/kittens/Logic$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.10/classes/com/kittens/Logic$$anonfun$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.10/classes/com/kittens/Logic$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.10/classes/com/kittens/Logic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.10/classes/com/kittens/PreOwnedKittenMain$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.10/classes/com/kittens/PreOwnedKittenMain$delayedInit$body.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.10/classes/com/kittens/PreOwnedKittenMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/classes/com/kittens/BuyerPreferences$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/classes/com/kittens/BuyerPreferences.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/classes/com/kittens/Kitten$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/classes/com/kittens/Kitten.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/classes/com/kittens/Logic$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/classes/com/kittens/Logic$$anonfun$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/classes/com/kittens/Logic$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/classes/com/kittens/Logic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/classes/com/kittens/PreOwnedKittenMain$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/classes/com/kittens/PreOwnedKittenMain$delayedInit$body.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/classes/com/kittens/PreOwnedKittenMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/test-classes/LogicSpec$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/test-classes/LogicSpec$$anonfun$1$$anonfun$apply$1$$anonfun$apply$3$$anonfun$apply$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/test-classes/LogicSpec$$anonfun$1$$anonfun$apply$1$$anonfun$apply$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/test-classes/LogicSpec$$anonfun$1$$anonfun$apply$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/test-classes/LogicSpec$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/test-classes/LogicSpec$$anonfun$2$$anonfun$apply$5$$anonfun$apply$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/test-classes/LogicSpec$$anonfun$2$$anonfun$apply$5$$anonfun$apply$7$$anonfun$apply$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/test-classes/LogicSpec$$anonfun$2$$anonfun$apply$5$$anonfun$apply$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/test-classes/LogicSpec$$anonfun$2$$anonfun$apply$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/test-classes/LogicSpec$$anonfun$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/test-classes/LogicSpec$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/scala-2.11/test-classes/LogicSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/$global/$global/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/$global/ivySbt/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/$global/update/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/compile/compile/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/compile/compile/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/compile/copyResources/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/compile/exportedProducts/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/compile/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/$global/$global/definedTestNames/data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/$global/$global/discoveredMainClasses/data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/compile/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/compile/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/copyResources/$global/streams/copy-resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/copyResources/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/definedTests/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/exportedProducts/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/fullClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/loadedTestFrameworks/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/test/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/test/$global/streams/succeeded_tests" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/test/isModule=true name=LogicSpec/test/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/streams/test/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/common/target/test-reports/LogicSpec.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/com.preownedkittens/website_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/com.preownedkittens/website_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/com.preownedkittens-website_2.11-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/com.preownedkittens-website_2.11-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/com.preownedkittens-website_2.11-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/com.preownedkittens-website_2.11-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/com.preownedkittens-website_2.11-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/com.preownedkittens-website_2.11-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/com.preownedkittens-website_2.11-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/com.preownedkittens-website_2.11-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/com.preownedkittens-website_2.11-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/com.preownedkittens-website_2.11-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/com.preownedkittens-website_2.11-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/com.preownedkittens-website_2.11-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/com.preownedkittens-website_2.11-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.10-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.10-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.10-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.10-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.10-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.10-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.10-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.10-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.10-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.10-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.10-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.10-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.10-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.11-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.11-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.11-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.11-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.11-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.11-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.11-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.11-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.11-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.11-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.11-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.11-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/reports/website-website_2.11-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/website/website_2.10/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/website/website_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/website/website_2.11/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/resolution-cache/website/website_2.11/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/$global/$global/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/$global/ivySbt/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/$global/update/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/compile/compile/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/compile/compile/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/compile/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/test/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/test/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../chapter4/kittens/website/target/streams/test/unmanagedJars/$global/streams/export" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/kittens-build.iml" afterPath="$PROJECT_DIR$/.idea/modules/kittens-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/kittens.iml" afterPath="$PROJECT_DIR$/.idea/modules/kittens.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kittens.iws" />
@@ -59,8 +327,8 @@
       <file leaf-file-name="build.sbt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6207865" vertical-offset="473" max-vertical-offset="1185">
-              <caret line="61" column="3" selection-start-line="61" selection-start-column="3" selection-end-line="61" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.6689655" vertical-offset="460" max-vertical-offset="1185">
+              <caret line="63" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -117,7 +385,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -153,6 +420,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -454,22 +722,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -488,6 +740,22 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
       <method />
     </configuration>
     <list size="1">
@@ -569,11 +837,12 @@
       <workItem from="1425383964109" duration="1973000" />
       <workItem from="1425421080513" duration="1800000" />
       <workItem from="1425556458837" duration="2799000" />
+      <workItem from="1425592231121" duration="197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6582000" />
+    <option name="totallyTimeSpent" value="6779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -592,6 +861,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -600,13 +870,12 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32934928" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -635,6 +904,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/common/src/test/scala/LogicSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="555">
@@ -663,9 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.49655172" vertical-offset="0" max-vertical-offset="725">
           <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -688,7 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -696,7 +969,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,7 +976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,14 +983,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
           <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6207865" vertical-offset="473" max-vertical-offset="1185">
-          <caret line="61" column="3" selection-start-line="61" selection-start-column="3" selection-end-line="61" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.6689655" vertical-offset="460" max-vertical-offset="1185">
+          <caret line="63" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding />
         </state>
       </provider>

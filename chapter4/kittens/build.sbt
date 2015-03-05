@@ -49,17 +49,17 @@ sampleIntTask := {
 
 val makeVersionProperties = TaskKey[Seq[File]]("makeVersionProperties")
 
+makeVersionProperties := {
+  val propFile = new File((resourceManaged in Compile).value, "version.properties")
+  val content = s"version=${gitHeadCommitSha.value}"
+  IO.write(propFile, content)
+  Seq(propFile)
+}
+
 resourceGenerators in Compile += makeVersionProperties.taskValue
 
 lazy val common = PreownedKittenProject("common")
-  .settings(
-    makeVersionProperties := {
-      val propFile = new File((resourceManaged in Compile).value, "version.properties")
-      val content = s"version=${gitHeadCommitSha.value}"
-      IO.write(propFile, content)
-      Seq(propFile)
-    }
-  )
+  .settings()
 
 lazy val analytics =
   PreownedKittenProject("analytics")
