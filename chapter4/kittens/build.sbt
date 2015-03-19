@@ -27,26 +27,6 @@ val gitHeadCommitSha = TaskKey[String]("gitHeadCommitSha")
 
 gitHeadCommitSha := Process("git rev-parse HEAD").lines.head
 
-val taskA = TaskKey[String]("taskA")
-
-val taskB = TaskKey[String]("taskB")
-
-val taskC = TaskKey[String]("taskC")
-
-taskA := { val b = taskB.value;  val c = taskC.value;  "taskA" }
-
-taskB := { Thread.sleep(5000); "taskB" }
-
-taskC := { Thread.sleep(5000); "taskC" }
-
-val sampleIntTask = TaskKey[Int]("sampleIntTask")
-
-sampleIntTask := {
-  val sum = 1 + 5
-  println("sum: " + sum)
-  sum
-}
-
 val makeVersionProperties = TaskKey[Seq[File]]("makeVersionProperties")
 
 makeVersionProperties := {
@@ -71,3 +51,5 @@ lazy val website =
   PreownedKittenProject("website")
     .dependsOn(common)
     .settings()
+
+mappings in packageBin in Compile += (baseDirectory.value / “LICENSE”) -> “PREOWNED-KITTEN-LICENSE”

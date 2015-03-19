@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/analytics-build.iml" filepath="$PROJECT_DIR$/.idea/modules/analytics-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common.iml" filepath="$PROJECT_DIR$/.idea/modules/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-build.iml" filepath="$PROJECT_DIR$/.idea/modules/common-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kittens.iml" filepath="$PROJECT_DIR$/.idea/modules/kittens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kittens-build.iml" filepath="$PROJECT_DIR$/.idea/modules/kittens-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website.iml" filepath="$PROJECT_DIR$/.idea/modules/website.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/website-build.iml" filepath="$PROJECT_DIR$/.idea/modules/website-build.iml" />
+    </modules>
+  </component>
+</project>
