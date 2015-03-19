@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="925afdb8-280f-458c-b298-eaf0b9828f39" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello_plugin/src/main/scala/com/blackfireapps/HelloPlugin.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello_plugin/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../chapter4/kittens/.idea/modules/analytics-build.iml" afterPath="$PROJECT_DIR$/../../chapter4/kittens/.idea/modules/analytics-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../chapter4/kittens/build.sbt" afterPath="$PROJECT_DIR$/../../chapter4/kittens/build.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../chapter4/kittens/.idea/modules/common-build.iml" afterPath="$PROJECT_DIR$/../../chapter4/kittens/.idea/modules/common-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../chapter4/kittens/.idea/modules/kittens-build.iml" afterPath="$PROJECT_DIR$/../../chapter4/kittens/.idea/modules/kittens-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../chapter4/kittens/.idea/modules/kittens.iml" afterPath="$PROJECT_DIR$/../../chapter4/kittens/.idea/modules/kittens.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../chapter4/kittens/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../chapter4/kittens/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../chapter4/kittens/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../../chapter4/kittens/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../chapter4/kittens/.idea/modules/website-build.iml" afterPath="$PROJECT_DIR$/../../chapter4/kittens/.idea/modules/website-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../chapter4/kittens/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../chapter4/kittens/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hello_plugin/src/main/scala/com/blackfireapps/HelloPlugin.scala" afterPath="$PROJECT_DIR$/../hello_plugin/src/main/scala/com/blackfireapps/HelloPlugin.scala" />
     </list>
     <ignored path="hello_plugin_test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,8 +53,8 @@
       <file leaf-file-name="HelloPlugin.class" pinned="false" current-in-tab="true">
         <entry file="jar://$USER_HOME$/.ivy2/local/com.blackfireapps/hello_plugin/scala_2.10/sbt_0.13/1.0/jars/hello_plugin.jar!/com/blackfireapps/HelloPlugin.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.021428572" vertical-offset="0" max-vertical-offset="700">
-              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.06428572" vertical-offset="0" max-vertical-offset="700">
+              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -540,16 +530,16 @@
       <created>1426730586194</created>
       <option name="number" value="Default" />
       <updated>1426730586194</updated>
-      <workItem from="1426730598527" duration="679000" />
+      <workItem from="1426730598527" duration="930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="679000" />
+    <option name="totallyTimeSpent" value="930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -620,8 +610,8 @@
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/local/com.blackfireapps/hello_plugin/scala_2.10/sbt_0.13/1.0/jars/hello_plugin.jar!/com/blackfireapps/HelloPlugin.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.021428572" vertical-offset="0" max-vertical-offset="700">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.06428572" vertical-offset="0" max-vertical-offset="700">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
           <folding />
         </state>
       </provider>
